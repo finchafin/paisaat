@@ -1,0 +1,24 @@
+.Comment {
+  margin-left: 30px;
+  /* border: 1px solid #2BAE66; */
+  padding: 0 10px;
+}
+
+.top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: left;
+}
+
+.avatar {
+  margin: 5px 10px;
+}
+
+.name {
+  margin: 15px 0 0 0;
+  padding: 0;
+}
+
+.lastLine{
+  margin-left: 40px;
+}

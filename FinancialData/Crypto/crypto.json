@@ -1,0 +1,102 @@
+[
+  {
+    "name":"Bitcoin",
+    "symbol": "BTC",
+    "price": "41,538.36",
+    "24h": "-o.42",
+    "7d": "19.27",
+    "marketcap": "782,759,039,005",
+    "volume": "23,644,020,125",
+    "circulatingsupply": "18,773,137"
+  },
+  {
+    "name":"Ethereum",
+    "symbol": "ETH",
+    "price": "2,584.58",
+    "24h": "4.71",
+    "7d": "19.21",
+    "marketcap": "303,686,023,701",
+    "volume": "19,234,245,395",
+    "circulatingsupply": "116,926,299"
+  },
+  {
+    "name":"Tether",
+    "symbol": "USDT",
+    "price": "1.00",
+    "24h": "-0.01",
+    "7d": "0.08",
+    "marketcap": "61,889,483,417",
+    "volume": "50,628,053,121",
+    "circulatingsupply": "61,871,052,218"
+  },
+  {
+    "name":"Binance Coin",
+    "symbol": "BNB",
+    "price": "334.74",
+    "24h": "1.98",
+    "7d": "12.43",
+    "marketcap": "57,358,265,734",
+    "volume": "1,836,100,252",
+    "circulatingsupply": "168,137,036"
+  },
+  {
+    "name":"Cardano",
+    "symbol": "ADA",
+    "price": "1.44",
+    "24h": "2.65",
+    "7d": "11.44",
+    "marketcap": "43,950,693,796",
+    "volume": "1,552,931,397",
+    "circulatingsupply": "32,065,761,015"
+  },
+  {
+    "name":"XRP",
+    "symbol": "XRP",
+    "price": "0.7504",
+    "24h": "0.90",
+    "7d": "26.53",
+    "marketcap": "35,301,641,921",
+    "volume": "2,496,758,762",
+    "circulatingsupply": "46,312,443,360"
+  },
+  {
+    "name":"Dogecoin",
+    "symbol": "DOGE",
+    "price": "0.208",
+    "24h": "0.48",
+    "7d": "7.02",
+    "marketcap": "27,781,730,705",
+    "volume": "1,465,267,489",
+    "circulatingsupply": "130,680,456,088"
+  },
+  {
+    "name":"Polkadot",
+    "symbol": "DOT",
+    "price": "19.52",
+    "24h": "20.09",
+    "7d": "45.72",
+    "marketcap": "17,868,331,975",
+    "volume": "1,876,555,207",
+    "circulatingsupply": "980,061,170"
+  },
+  {
+    "name":"Uniswap",
+    "symbol": "UNI",
+    "price": "22.36",
+    "24h": "5.81",
+    "7d": "26.90",
+    "marketcap": "13,108,626,535",
+    "volume": "388,077,107",
+    "circulatingsupply": "587,376,041"
+  },
+  {
+    "name":"Chainlink",
+    "symbol": "LINK",
+    "price": "22.86",
+    "24h": "6.71",
+    "7d": "39.47",
+    "marketcap": "10,147,815,087",
+    "volume": "1,307,895,156",
+    "circulatingsupply": "443,009,554"
+  }
+]

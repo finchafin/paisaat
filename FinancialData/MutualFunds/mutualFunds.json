@@ -1,0 +1,302 @@
+[
+  {
+    "name": "IIFL Focused Equity Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "0.88",
+    "1year": "64.55",
+    "3year": "25.45",
+    "type": "highreturns"
+  },
+  {
+    "name": "Parag Parikh Cap Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "0.14",
+    "1year": "58.36",
+    "3year": "23.42",
+    "type": "highreturns"
+  },
+  {
+    "name": "UTI Flexi Cap Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "1.18",
+    "1year": "68.80",
+    "3year": "19.53",
+    "type": "highreturns"
+  },
+  {
+    "name": "DSP Flexi Cap Fund Direct Plan Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "0.86",
+    "1year": "66.18",
+    "3year": "19.50",
+    "type": "highreturns"
+  },
+  {
+    "name": "Canara Robeco BlueChip Equity Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "1.34",
+    "1year": "51.26",
+    "3year": "18.62",
+    "type": "highreturns"
+  },
+  {
+    "name": "Mirae Assets Tax Saver Fund Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "1.13",
+    "1year": "69.11",
+    "3year": "21.87",
+    "type": "taxsaving"
+  },
+  {
+    "name": "Canera Robero Tax Saver Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "1.13",
+    "1year": "63.17",
+    "3year": "20.79",
+    "type": "taxsaving"
+  },
+  {
+    "name": "DSP Tax Saver Direct Plan Growth",
+    "risk": "Very High Risk",
+    "stars": "4",
+    "mode": "Equity",
+    "1day": "0.88",
+    "1year": "69.76",
+    "3year": "17.92",
+    "type": "taxsaving"
+  },
+  {
+    "name": "Kotak Tax Saver Direct Plan Growth",
+    "risk": "Very High Risk",
+    "stars": "Equity",
+    "mode": "Equity",
+    "1day": "0.90",
+    "1year": "60.86",
+    "3year": "17.92",
+    "type": "taxsaving"
+  },
+  {
+    "name": "UTI Long Term Equity Fund Growth",
+    "risk": "Very High Risk",
+    "stars": "3",
+    "mode": "Equity",
+    "1day": "1.07",
+    "1year": "62.01",
+    "3year": "16.96",
+    "type": "taxsaving"
+  },
+  {
+    "name": "Aditya Birla Sun Life Corporate Fund",
+    "risk": "Moderate Risk",
+    "stars": "5",
+    "mode": "Debt",
+    "1day": "0.03",
+    "1year": "5.80",
+    "3year": "9.34",
+    "type": "betterthanfd"
+  },
+  {
+    "name": "ICICI Purdential Short Term Fund Direct Plan Growth",
+    "risk": "Moderate Risk",
+    "stars": "5",
+    "mode": "Debt",
+    "1day": "0.03",
+    "1year": "5.99",
+    "3year": "9.27",
+    "type": "betterthanfd"
+  },
+  {
+    "name": "Axis Short Term Direct Fund Growth",
+    "risk": "Moderate Risk",
+    "stars": "5",
+    "mode": "Debt",
+    "1day": "0.03",
+    "1year": "5.41",
+    "3year": "9.04",
+    "type": "betterthanfd"
+  },
+  {
+    "name": "HDFC Debt Fund Direct Plan Growth",
+    "risk": "Moderate Risk",
+    "stars": "5",
+    "mode": "Debt",
+    "1day": "0.01",
+    "1year": "5.88",
+    "3year": "0.02",
+    "type": "betterthanfd"
+  },
+  {
+    "name": "Nippon India Money Direct Fund Growth",
+    "risk": "Moderate Risk",
+    "stars": "3",
+    "mode": "Debt",
+    "1day": "0.01",
+    "1year": "4.12",
+    "3year": "6.68",
+    "type": "betterthanfd"
+  },
+  {
+    "name": "Mirae Asset Larg Cap Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "1.37",
+    "1year": "51.95",
+    "3year": "15.88",
+    "type": "topcompanies"
+  },
+  {
+    "name": "UTI Mastershare Direct Growth Plan",
+    "risk": "Very High Risk",
+    "stars": "4",
+    "mode": "Equity",
+    "1day": "1.37",
+    "1year": "54.76",
+    "3year": "14.96",
+    "type": "topcompanies"
+  },
+  {
+    "name": "ICICI Prudental Bluechip Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "4",
+    "mode": "Equity",
+    "1day": "1.32",
+    "1year": "51.74",
+    "3year": "13.79",
+    "type": "topcompanies"
+  },
+  {
+    "name": "ICICI Predential Sensex Plan Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "4",
+    "mode": "Other",
+    "1day": "1.64",
+    "1year": "46.55",
+    "3year": "13.71",
+    "type": "topcompanies"
+  },
+  {
+    "name": "Nippon India Index Fund Sensex Plan Growth",
+    "risk": "Very High Risk",
+    "stars": "4",
+    "mode": "Other",
+    "1day": "1.66",
+    "1year": "46.72",
+    "3year": "13.64",
+    "type": "topcompanies"
+  },
+  {
+    "name": "Axis Small Cap Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "0.16",
+    "1year": "92.09",
+    "3year": "28.93",
+    "type": "sip"
+  },
+  {
+    "name": "ICICI Prudential Small Cap FUnd Direct Plan Growth",
+    "risk": "Very High Risk",
+    "stars": "3",
+    "mode": "Equity",
+    "1day": "-0.21",
+    "1year": "92.09",
+    "3year": "28.93",
+    "type": "sip"
+  },
+  {
+    "name": "Nippon Small Cap India Direct Fund Growth",
+    "risk": "Very High Risk",
+    "stars": "4",
+    "mode": "Equity",
+    "1day": "0.49",
+    "1year": "115.90",
+    "3year": "23.28",
+    "type": "sip"
+  },
+  {
+    "name": "Axis Mid Cap Direct Plan Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "0.18",
+    "1year": "67.37",
+    "3year": "23.11",
+    "type": "sip"
+  },
+  {
+    "name": "SBI Small Cap Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "4",
+    "mode": "Equity",
+    "1day": "0.27",
+    "1year": "84.94",
+    "3year": "22.56",
+    "type": "sip"
+  },
+  {
+    "name": "ICICI Prudential Technology DIrect Plan",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "0.46",
+    "1year": "108.33",
+    "3year": "36.84",
+    "type": "sector"
+  },
+  {
+    "name": "Aditya Birla Sun Life Digital India Fund Growth",
+    "risk": "Very High Risk",
+    "stars": "3",
+    "mode": "Equity",
+    "1day": "0.77",
+    "1year": "94,30",
+    "3year": "34.40",
+    "type": "sector"
+  },
+  {
+    "name": "Tata Digital Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "4",
+    "mode": "Equity",
+    "1day": "0.70",
+    "1year": "50.39",
+    "3year": "28.92",
+    "type": "sector"
+  },
+  {
+    "name": "Edelweiss Recently Listed IPO Fund Direct Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "0.05",
+    "1year": "77.61",
+    "3year": "23.99",
+    "type": "sector"
+  },
+  {
+    "name": "Tata Ethical Direct Plan Growth",
+    "risk": "Very High Risk",
+    "stars": "5",
+    "mode": "Equity",
+    "1day": "1.08",
+    "1year": "60.47",
+    "3year": "18.50",
+    "type": "sector"
+  }
+]

@@ -1,0 +1,22 @@
+POST http://localhost:5000/createpost
+Content-Type: application/json
+
+{
+  "postText": "Bitcoin Creashed",
+  "postTopics": "['bitcoin']",
+  "postedBy": "60bf4848785580e91421e44c"
+}
+
+### vijiyants fetch post request
+GET http://localhost:5000/getfollowerspost/60c85380f786b91ca87ac048 HTTP/1.1
+
+
+### profile - get all posts
+GET http://localhost:5000/usersAllPost/60c85303f786b91ca87ac046 HTTP/1.1
+
+
+### profile - get user details
+GET http://localhost:5000/userDetails/60c85303f786b91ca87ac046 HTTP/1.1
+
+### trending posts
+GET http://localhost:5000/trendingPosts

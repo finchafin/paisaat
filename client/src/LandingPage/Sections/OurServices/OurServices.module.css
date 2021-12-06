@@ -1,0 +1,25 @@
+.services {
+  background: linear-gradient(180deg, #133264 0%, #000000 100%);
+}
+
+.header {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  padding: 0 100px;
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+}
+
+.image{
+  width: 33%;
+  background-image: url('../../assets/img3.jpg');
+}

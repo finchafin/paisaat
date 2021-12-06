@@ -1,0 +1,22 @@
+.title {
+  margin: 20px 0 0 25px;
+  font-size: 30px;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media (max-width: 550px) {
+  .title {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000;
+  }
+  
+  .box {
+    justify-content: center;
+  }
+}

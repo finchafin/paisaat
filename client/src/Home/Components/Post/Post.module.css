@@ -1,0 +1,9 @@
+.postImage {
+  max-height: 500px;
+  max-width: 610px;
+  width: 100%;
+}
+
+.red {
+  color: #4280c7;
+}

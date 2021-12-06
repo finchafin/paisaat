@@ -1,0 +1,19 @@
+
+.Logo {
+  font-family: 'Reggae One', cursive;
+  font-size: 60px;
+  color: rgb(67, 204, 49);
+}
+
+.title {
+  font-family: 'Caveat', cursive;
+  min-width: 103px;
+  width: 100%;
+  text-align: center;
+  height: 53px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 53px;
+  color: #000000;
+}

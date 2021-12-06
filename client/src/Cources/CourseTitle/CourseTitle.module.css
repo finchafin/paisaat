@@ -1,0 +1,51 @@
+.course {
+  background-image: url('../assets/pattern.jpg');
+  height: 200px;
+  width: 245px;
+  left: 282px;
+  top: 181px;
+  margin: 20px;
+  border-radius: 15px 15px 0 0;
+  /* background: #133264; */
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.title {
+  padding: 10px 10px 0 10px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.footer {
+  background-color: black;
+  color: #fff;
+  width: 100%;
+  height: 40px;
+  font-family: Poppins;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 10px 0 0 0;
+}
+
+@media (max-width: 550px) {
+  .course {
+    width: 80%;
+    height: 200px;
+  }
+
+  .title {
+    padding: 20px;
+  }
+}

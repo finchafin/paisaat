@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Commodity Agricultural Raw Materials Index",
+    "1_month_change":"-1.02",
+    "12_month_change": "14.66",
+    "year_to_date_change": "0.71"
+  },
+  {
+    "name": "Commodity Beverage Price Index",
+    "1_month_change":"1.27",
+    "12_month_change": "16.37",
+    "year_to_date_change": "8.89" 
+  },
+  {
+    "name": "Commodity Price Index",
+    "1_month_change":"3.88",
+    "12_month_change": "61.86",
+    "year_to_date_change": "17.84"
+  },
+  {
+    "name": "Commodity Fuel (energy) Index",
+    "1_month_change":"9.44",
+    "12_month_change": "92.60",
+    "year_to_date_change": "34.34"
+  },
+  {
+    "name": "Commodity Food and Beverage Price Index",
+    "1_month_change":"-3.67",
+    "12_month_change": "31.30",
+    "year_to_date_change": "13.10"
+  },
+  {
+    "name": "Commodity Food Price Index",
+    "1_month_change":"-3.02",
+    "12_month_change": "38.69",
+    "year_to_date_change": "8.09"
+  },
+  {
+    "name": "Commodity Industrial Inputs Price Index",
+    "1_month_change":"2.69",
+    "12_month_change": "68.59",
+    "year_to_date_change": "22.40"
+  },
+  {
+    "name": "Commodity Metals Price Index",
+    "1_month_change":"-1.21",
+    "12_month_change": "68.67",
+    "year_to_date_change": "20.84"
+  },
+  {
+    "name": "Coal, South African export price",
+    "1_month_change":"13.70",
+    "12_month_change": "98.77",
+    "year_to_date_change": "30.02"
+  },
+  {
+    "name": "Crude Oil (petroleum)",
+    "1_month_change":"8.13",
+    "12_month_change": "81.96",
+    "year_to_date_change": "33.96"
+  },
+  {
+    "name": "Crude Oil (petroleum); Dated Brent",
+    "1_month_change":"7.39",
+    "12_month_change": "83.00",
+    "year_to_date_change": "33.95"
+  },
+  {
+    "name": "Crude Oil (petroleum); Dubai Fateh",
+    "1_month_change":"7.55",
+    "12_month_change": "76.78",
+    "year_to_date_change": "31.02"
+  }
+]
