@@ -1,0 +1,182 @@
+[
+  {
+    "cname": "Tata Capital Housing Finiance Limited 8.55%",
+    "lasttrade": "28 Jul, 2021",
+    "couponRate": "8.55%",
+    "faceValue": "1000",
+    "maturity": "8 yr 5 mo",
+    "rating": "AAA",
+    "type": "suggested"
+  },
+  {
+    "cname": "Indian Railway Finance Corporation 7.04%",
+    "lasttrade": "26 Jul, 2021",
+    "couponRate": "7.04%",
+    "faceValue": "1000",
+    "maturity": "6 yr 7 mo",
+    "rating": "AAA",
+    "type": "suggested"
+  },
+  {
+    "cname": "National Heighway Authority of India 7.39%",
+    "lasttrade": "28 JUl, 2021",
+    "couponRate": "7.39%",
+    "faceValue": "1000",
+    "maturity": "9 yr 7 mo",
+    "rating": "AAA",
+    "type": "suggested"
+  },
+  {
+    "cname": "Power Finance Corporation Limited 8.61%",
+    "lasttrade": "01 Jul, 2021",
+    "couponRate": "8.61%",
+    "faceValue": "1000",
+    "maturity": "5 yr 3 mo",
+    "rating": "AAA",
+    "type": "suggested"
+  },
+  {
+    "cname": "India Infrastructure Finance Company 8.26%",
+    "lasttrade": "23 Jul, 2021",
+    "couponRate": "8.26%",
+    "faceValue": "1000",
+    "maturity": "7 yr",
+    "rating": "AAA",
+    "type": "suggested"
+  },
+  {
+    "cname": "Fulletron India Credit Company 10.5%",
+    "lasttrade": "02 May, 2019",
+    "couponRate": "10.5%",
+    "faceValue": "5 Lac",
+    "maturity": "2 yr 2 mo",
+    "rating": "AAA",
+    "type": "corporate"
+  },
+  {
+    "cname": "Andhra Pradesh Expressway Limited",
+    "lasttrade": "16 Jun, 2020",
+    "couponRate": "0",
+    "faceValue": "10 Lac",
+    "maturity": "4 yr 2 mo",
+    "rating": "AAA",
+    "type": "corporate"
+  },
+  {
+    "cname": "Fulletron India Credit Company 10.45%",
+    "lasttrade": "02 Mar, 2015",
+    "couponRate": "10.45%",
+    "faceValue": "5 Lac",
+    "maturity": "2 yr 3 mo",
+    "rating": "AAA",
+    "type": "corporate"
+  },
+  {
+    "cname": "Mahindra and Mahindra Finincial Services Ltd 8.7%",
+    "lasttrade": "10 Feb, 2021",
+    "couponRate": "8.7%",
+    "faceValue": "1000",
+    "maturity": "1 yr 10 mo",
+    "rating": "AAA",
+    "type": "corporate"
+  },
+  {
+    "cname": "East-North Interconnection Company Limited 9.25%",
+    "lasttrade": "28 Apr, 2016",
+    "couponRate": "9.25%",
+    "faceValue": "10 Lac",
+    "maturity": "5 yr 7 mo",
+    "rating": "AAA",
+    "type": "corporate"
+  },
+  {
+    "cname": "Power Griid Connection Of India 8.44%",
+    "lasttrade": "13 Feb, 2014",
+    "couponRate": "8.44%",
+    "faceValue": "12.50 Lac",
+    "maturity": "2 yr 7 mo",
+    "rating": "AAA",
+    "type": "public"
+  },
+  {
+    "cname": "National Heighway Authority Of India 7.04%",
+    "lasttrade": "14 JUn, 2021",
+    "couponRate": "7.04%",
+    "faceValue": "1000",
+    "maturity": "4 yr 7 mo",
+    "rating": "AAA",
+    "type": "public"
+  },
+  {
+    "cname": "Nhpc Limited 9.25%",
+    "lasttrade": "3 Apr, 2012",
+    "couponRate": "9.25%",
+    "faceValue": "1 Lac",
+    "maturity": "3 yr 7 mo",
+    "rating": "AAA",
+    "type": "public"
+  },
+  {
+    "cname": "Nhpc Limited 9.25%",
+    "lasttrade": "29 Mar, 2012",
+    "couponRate": "9.25%",
+    "faceValue": "1 Lac",
+    "maturity": "7 mo",
+    "rating": "AAA",
+    "type": "public"
+  },
+  {
+    "cname": "State Bank Of India 9.05%",
+    "lasttrade": "7 Nov, 2019",
+    "couponRate": "9.05%",
+    "faceValue": "10 Lac",
+    "maturity": "4 yr 4 mo",
+    "rating": "AAA",
+    "type": "public"
+  },
+  {
+    "cname": "Icici Limited",
+    "lasttrade": "19 Dec, 2018",
+    "couponRate": "0",
+    "faceValue": "40,000",
+    "maturity": "1 yr 4 mo",
+    "rating": "AAA",
+    "type": "bank"
+  },
+  {
+    "cname": "State Bank Of Bikaner And Jaipur 9.78 Bd Fvrs 10Lac L.T.D 9.78%",
+    "lasttrade": "02 May, 2017",
+    "couponRate": "9.78%",
+    "faceValue": "10 Lac",
+    "maturity": "1 yr 2 mo",
+    "rating": "AAA",
+    "type": "bank"
+  },
+  {
+    "cname": "Hdfc Bank Limited 9.45%",
+    "lasttrade": "19 Sep, 2018",
+    "couponRate": "9.45%",
+    "faceValue": "10 Lac",
+    "maturity": "6 yr",
+    "rating": "AAA",
+    "type": "bank"
+  },
+  {
+    "cname": "Icici Limited",
+    "lasttrade": "19 Sep, 2018",
+    "couponRate": "0",
+    "faceValue": "50,000",
+    "maturity": "5 mo",
+    "rating": "AAA",
+    "type": "bank"
+  },
+  {
+    "cname": "Icici Limited",
+    "lasttrade": "19 Dec, 2018",
+    "couponRate": "0",
+    "faceValue": "40,000",
+    "maturity": "11 mo",
+    "rating": "AAA",
+    "type": "bank"
+  }
+]

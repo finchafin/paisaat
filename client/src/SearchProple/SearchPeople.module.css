@@ -1,0 +1,35 @@
+.centre {
+  max-width: 550px;
+  width: 100%;
+  text-align: center;
+  margin: 40px auto;
+}
+
+.searchForm {
+  width: 100%;
+  padding: 10px;
+}
+
+.searchInput {
+  width: 400px;
+}
+
+.searchBtn {
+  font-size: 3rem;
+  color: #086cdf;
+  margin-left: 30px;
+}
+
+.people {
+  margin-top: 20px;
+}
+
+@media (max-width: 800px) {
+  .searchInput{
+    width: 80%;
+  }
+
+  .searchBtn{
+    margin: 5px auto auto 10px;
+  }
+}

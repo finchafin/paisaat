@@ -1,0 +1,52 @@
+[
+  {
+    "name": "State Bank of India FD",
+    "general": "2.90% to 5.40%",
+    "senior": "3.40% to 6.20%"
+  },
+  {
+    "name": "ICICI Bank FD",
+    "general": "2.50% to 5.50%",
+    "senior": "3.00% to 6.30%"
+  },
+  {
+    "name": "HDFC Bank FD",
+    "general": "2.50% to 5.50%",
+    "senior": "3.00% to 6.25%"
+  },
+  {
+    "name": "Punjab National Bank FD",
+    "general": "3.00% to 5.25%",
+    "senior": "3.50% to 5.75%"
+  },
+  {
+    "name": "Canara Bank FD",
+    "general": "2.95% to 5.50%",
+    "senior": "2.95% to 6.00%"
+  },
+  {
+    "name": "Axis Bank FD",
+    "general": "2.50% to 5.75%",
+    "senior": "2.50% to 6.50%"
+  },
+  {
+    "name": "Bank of Baroda FD",
+    "general": "2.80% to 5.25%",
+    "senior": "3.30% to 6.25%"
+  },
+  {
+    "name": "IDFC Bank FD",
+    "general": "2.75% to 5.75%",
+    "senior": "3.25% to 6.25%"
+  },
+  {
+    "name": "Bank of India FD",
+    "general": "3.25% to 5.30%",
+    "senior": "3.75% to 5.80%"
+  },
+  {
+    "name": "Corporation Bank FD (now Union Bank of India)",
+    "general": "3.00% to 5.60%",
+    "senior": "3.50% to 6.10%"
+  }
+]

@@ -1,0 +1,36 @@
+.contactus {
+  background: radial-gradient(35.97% 145.13% at 50.04% 50.09%, #68C2FF 0%, #0071F2 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 450px;
+}
+
+.header {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  color: #f3ebdd;
+  margin: 0;
+  padding: 0;
+}
+
+.form {
+  width: 300px;
+  height: 280px;
+  margin-left: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.input {
+  width: 250px;
+}
+
+.submitbtn {
+  width: 120px;
+}

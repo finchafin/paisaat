@@ -1,0 +1,11 @@
+.BottomNav {
+  display: none;
+  color: palegoldenrod;
+}
+
+@media (min-width : 800px) {
+  .BottomNav {
+    display: flex;
+    justify-content: space-around;
+  }
+}

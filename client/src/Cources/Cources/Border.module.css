@@ -1,0 +1,9 @@
+.border {
+  border: 1px solid #000;
+}
+
+.gridContainer {
+  border: 2px solid #000;
+  width: 80%;
+  margin-left: 10%;
+}

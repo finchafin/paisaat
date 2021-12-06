@@ -1,0 +1,6 @@
+POST http://localhost:5000/getComments
+Content-Type: application/json
+
+{
+"postId":"60d1f1d10ff174796c29a07c"
+}

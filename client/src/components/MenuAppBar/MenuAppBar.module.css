@@ -1,0 +1,64 @@
+.appbar {
+  margin-bottom: 10px;
+}
+
+@media (min-width: 800px) {
+  .appbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+}
+
+.contentPadding {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.logoImg {
+  height: 45px;
+  position: absolute;
+  border-radius: 8px;
+}
+
+.navitem {
+  padding: 0;
+  margin: 0;
+  transform: translateY(-5px);
+}
+
+.signupbtn {
+  background-color: #000000;
+  color: #fff;
+  border: none;
+  height: 35px;
+  width: 83px;
+  left: 1044px;
+  top: 43px;
+  border-radius: 7px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.signinbtn {
+  background-color: #fff;
+  color: #000;
+  border: none;
+  height: 35px;
+  width: 83px;
+  left: 1044px;
+  top: 43px;
+  border-radius: 7px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+}

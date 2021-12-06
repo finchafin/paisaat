@@ -1,0 +1,29 @@
+GET http://localhost:5000/companystats/investing/tatachemicals
+
+
+###
+GET http://localhost:5000/companystats/investing/asianpaints
+
+
+###
+GET http://localhost:5000/companystats/bonds
+
+
+###
+GET http://localhost:5000/companystats/properties
+
+
+###
+GET http://localhost:5000/companystats/crypto
+
+
+###
+GET http://localhost:5000/companystats/fd
+
+
+###
+GET http://localhost:5000/companystats/commodities
+
+
+###
+GET http://localhost:5000/companystats/mutualfunds

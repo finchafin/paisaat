@@ -1,0 +1,39 @@
+{
+  "name": "socialFinance",
+  "version": "1.0.0",
+  "description": "A social media for finance and related stuffs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "cd client && npm run build",
+    "install-client": "cd client && npm install",
+    "heroku-postbuild": "npm run install-client && npm run build",
+    "devstart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dswaraj105/Social-Finance.git"
+  },
+  "keywords": [],
+  "author": "Swaraj Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dswaraj105/Social-Finance/issues"
+  },
+  "homepage": "https://github.com/dswaraj105/Social-Finance#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.9",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

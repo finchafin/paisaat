@@ -1,0 +1,17 @@
+/* .link{
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+} */
+
+.link {
+  text-decoration: none;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000;
+}

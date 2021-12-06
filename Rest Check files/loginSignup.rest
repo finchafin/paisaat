@@ -1,0 +1,66 @@
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+  "email" : "max@test.com",
+  "password" : "aaaaa"
+}
+
+###
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+  "email" : "max@test.com",
+  "password" : "abaaa"
+}
+
+###
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+  "email" : "maxim@test.com",
+  "password" : "abaaa"
+}
+
+###
+POST http://localhost:5000/signup
+Content-Type: application/json
+
+{
+  "name" : "max",
+  "email" : "max@test.com",
+  "password" : "aaaaa"
+}
+
+###
+POST http://localhost:5000/signup
+Content-Type: application/json
+
+{
+  "name" : "sam",
+  "email" : "sam@test.com",
+  "password" : "aaaaa"
+}
+
+###
+POST http://localhost:5000/signup
+Content-Type: application/json
+
+{
+  "name" : "arun",
+  "email" : "arun@test.com",
+  "password" : "aaaaa"
+}
+
+###
+
+POST http://localhost:5000/signup
+Content-Type: application/json
+
+{
+  "name" : "ccc",
+  "email" : "ccc@test.com",
+  "password" : "aaaaa"
+}
